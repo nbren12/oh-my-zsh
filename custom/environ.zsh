@@ -34,5 +34,9 @@ then
 
     MKL_NUM_THREADS=1
     export MKL_NUM_THREADS
+    export PATH=/opt/local/bin:$PATH
 fi
+
+#   Ipython completion
+source $DOTFILES/ipython-completion.bash
 

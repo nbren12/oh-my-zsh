@@ -19,6 +19,7 @@ then
     alias g='mvim --servername VIM1 --remote-silent'
     alias mlab='/Applications/MATLAB_R2013a.app/bin/matlab -nodesktop -nosplash'
     alias vim='mvim -v'
+    alias marked="open -a Marked.app"
 
 else
     alias g='gvim --servername VIM1 --remote-silent'

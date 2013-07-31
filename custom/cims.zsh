@@ -9,7 +9,7 @@ export PYTHONPATH=/kontiki_array1/noah/rayben:$PYTHONPATH
 
 export CC=gcc
 export CXX=g++
-export PATH=/kontiki_array1/noah/rayben/rayben/bin:$PATH
+export PATH=/kontiki_array1/noah/rayben/rayben/bin:$HOME/usr/local/git-annex.linux:$PATH
 
 module load python-2.7
 module load qt
